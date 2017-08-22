@@ -7,6 +7,9 @@ public class One {
         //3 分支提交
         int x = 0 ;
         //4 合并上传
+        //5 合并 第一次提交
+        int y = 1;
+
 
     }
 
